@@ -1,0 +1,26 @@
+{
+  "name": "typescript-productivity-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udcodes/typescript-productivity-app.git"
+  },
+  "author": "Udochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Udcodes/typescript-productivity-app/issues"
+  },
+  "homepage": "https://github.com/Udcodes/typescript-productivity-app#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
